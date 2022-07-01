@@ -1,0 +1,26 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.card1{
+    width:100px;
+    height:100px;
+    background-color: brown;
+    border: 1px solid brown;
+
+}
+.card2{
+    width:100px;
+    height:100px;
+    background-color: brown;
+    border: 1px solid brown;
+
+}
+.card3{
+    width:100px;
+    height:100px;
+    background-color: brown;
+    border: 1px solid brown;
+
+}
